@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ailaysa-website-fita-interview/static/css/main.cad59a8c.css",
+    "main.js": "/ailaysa-website-fita-interview/static/js/main.1b34e4d3.js",
+    "static/js/787.aedba692.chunk.js": "/ailaysa-website-fita-interview/static/js/787.aedba692.chunk.js",
+    "static/media/hero-img.png": "/ailaysa-website-fita-interview/static/media/hero-img.9047506afcf424bdc395.png",
+    "static/media/ailaysa-logo-new (3).svg": "/ailaysa-website-fita-interview/static/media/ailaysa-logo-new (3).4c441709363af43145a224caa63c4b4b.svg",
+    "static/media/ailaysa-big-logo.svg": "/ailaysa-website-fita-interview/static/media/ailaysa-big-logo.e38c081f41d8367e47165ce8db8c2ebd.svg",
+    "static/media/ailaysa-logo.svg": "/ailaysa-website-fita-interview/static/media/ailaysa-logo.e38c081f41d8367e47165ce8db8c2ebd.svg",
+    "index.html": "/ailaysa-website-fita-interview/index.html",
+    "main.cad59a8c.css.map": "/ailaysa-website-fita-interview/static/css/main.cad59a8c.css.map",
+    "main.1b34e4d3.js.map": "/ailaysa-website-fita-interview/static/js/main.1b34e4d3.js.map",
+    "787.aedba692.chunk.js.map": "/ailaysa-website-fita-interview/static/js/787.aedba692.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cad59a8c.css",
+    "static/js/main.1b34e4d3.js"
+  ]
+}

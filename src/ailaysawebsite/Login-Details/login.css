@@ -1,0 +1,54 @@
+.login-container{
+    padding: 9.6rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #22E1FF 0%, #1D8FE1 48.00%, #625EB1 100%); 
+}
+.login-section{
+    width: 100rem;
+    height: 70rem;
+    flex-shrink: 0;
+    padding: 2.4rem;
+    align-items: center;
+    border-radius: 30px;
+    background: #FFF;
+    box-shadow: 0px 4px 26px 0px rgba(32, 32, 32, 0.25);
+}
+.company-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   margin: 3.6rem 0;
+    color: black;
+   }
+
+.login-details{
+margin: auto;    
+width: 70.8rem;
+height: 37.9rem;
+flex-shrink: 0;
+border: 1px solid #D9D9D9BF;
+border-radius: 8px;
+background: #fff;
+box-shadow: 0px 1px 8px 0px rgba(20, 46, 110, 0.10);
+   }
+
+table{
+   border-collapse: collapse;
+   width: 100%;
+}
+th,td{
+   border: 1px solid #ffffff;
+   text-align: left;
+   padding: 0.8rem;
+   font-size: 1.6rem;
+} 
+th{
+   background-color: rgb(117, 201, 250);
+}
+td{
+   background-color: rgb(205,235,253);
+}
+ 
+     

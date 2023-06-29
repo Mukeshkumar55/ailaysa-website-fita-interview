@@ -1,0 +1,86 @@
+.hero{
+  padding: 9.6rem;
+  }
+  .section-hero{
+  width: 100%;
+  background: linear-gradient(135deg, #22E1FF 0%, #1D8FE1 48.00%, #625EB1 100%);
+  } 
+
+
+
+
+
+
+
+  .hero-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    gap: 4.8rem;
+  }
+  .heading-primary {
+    font-size: 5.2rem;
+    line-height: 1.05;
+    margin-bottom: 3.2rem;
+    font-weight: 700;
+    color: #333;
+    letter-spacing: -0.5px;
+  }
+  .hero-img > img{
+    width: 100%;
+  }
+  .hero-text{
+    width: 100%;
+  }
+  
+  
+  .sub{
+    font-size: 2rem;
+    line-height: 1.6;
+    margin-bottom: 4.8rem;
+  }
+  .btn
+   {
+    display: inline-block;
+    font-size: 2rem;
+    font-weight: 600;
+    text-decoration: none;
+    padding: 1.6rem 2rem;
+    border-radius: 0.4rem;
+    transition: background-color 0.3s;
+    border: none;
+    cursor: pointer;
+    font-family: inherit;
+    background: #0078D4;
+    
+  }
+
+
+  
+  .btn-outline{
+  
+    display: inline-block;
+    font-size: 2rem;
+    font-weight: 600;
+    text-decoration: none;
+    padding: 1.6rem 2rem;
+    margin-left: 2.4rem;
+    transition: background-color 0.3s;
+    border: none;
+    cursor: pointer;
+    font-family: inherit;
+    color: #fff;
+  
+  }
+  .hero-img{
+    width: 100%;
+  }
+  .hero-text{
+    width: 100%;
+  }
+  
+  
+  .btn-container > .MuiSvgIcon-root{
+    width: 3rem !important;
+    color: #fff;
+  }
